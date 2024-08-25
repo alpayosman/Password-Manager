@@ -1,0 +1,3 @@
+C:/Users/osman/Desktop/Business/PJATK/Project/2223S_32c_s23367/2223S_32c_s23367/cmake-build-debug/CMakeFiles/2023S_32c_s23367.dir
+C:/Users/osman/Desktop/Business/PJATK/Project/2223S_32c_s23367/2223S_32c_s23367/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/osman/Desktop/Business/PJATK/Project/2223S_32c_s23367/2223S_32c_s23367/cmake-build-debug/CMakeFiles/rebuild_cache.dir
